@@ -1,0 +1,36 @@
+.header{
+    font-size: xx-large;
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+    background: silver;
+    border: 1px solid black;
+    margin: 28px;
+    padding: 28px;
+}
+
+#btn_sign_in {
+	transition: width 1.5s;
+	width:80px;
+}
+
+#btn_reg {
+	transition: width 1.5s;
+	width:130px;
+}
+
+#btn_sign_out {
+	transition: width 1.5s;
+	width:80px;
+}
+
+input.filter, input.filter, input.filter, input.filter {
+	border: 5px solid #1809FF;
+}
+
+div.container {
+	display: flex;
+} 
+
+
+

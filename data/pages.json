@@ -1,0 +1,21 @@
+[
+  {
+    "uri": "index.php",
+    "alias": "Authorization",
+    "name": "Главная страница",
+    "header": "Главная страница"
+  },
+
+  {
+    "uri": "login.php",
+	"alias": "4",
+    "name": "Вход на сайт",
+    "header": "Войти"
+  },
+  {
+    "uri": "reg.php",
+	"alias": "5",
+    "name": "Регистрация",
+    "header": "Регистрация"
+  }
+]
